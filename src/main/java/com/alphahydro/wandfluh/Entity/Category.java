@@ -21,6 +21,9 @@ public class Category {
     @OneToMany(mappedBy = "parentCategory")
     private Set<Category> categories;
 
+    @OneToMany(mappedBy = "category")
+    private Set<CategoryProperties> properties;
+
     public Category() {
     }
 
@@ -79,5 +82,13 @@ public class Category {
 
     public void setCategories(Set<Category> categories) {
         this.categories = categories;
+    }
+
+    public Set<CategoryProperties> getProperties() {
+        return properties;
+    }
+
+    public void setProperties(Set<CategoryProperties> properties) {
+        this.properties = properties;
     }
 }
