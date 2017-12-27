@@ -9,18 +9,34 @@ public class Product {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
     private String name;
-    private String data_sheet_no;
-    private String data_sheet_pdf;
+
+    @Column(name = "data_sheet_no", nullable = false)
+    private String dataSheetNo;
+    @Column(name = "data_sheet_pdf", nullable = false)
+    private String dataSheetPdf;
 
     @ManyToOne
-    @JoinColumn(name = "category_id")
+    @JoinColumn(name = "category_id", nullable = false)
     private Category category;
+
+    @ManyToOne
+    @JoinColumn(name = "product_construction_id")
+    private ProductConstruction construction;
+
+    @ManyToOne
+    @JoinColumn(name = "product_size_id")
+    private ProductSize size;
+
+    @ManyToOne
+    @JoinColumn(name = "product_type_id")
+    private ProductType type;
 
     public Product() {
     }
 
-    public Product(String name) {
+    public Product(String name, Category category) {
         this.name = name;
+        this.category = category;
     }
 
     public long getId() {
@@ -39,20 +55,20 @@ public class Product {
         this.name = name;
     }
 
-    public String getData_sheet_no() {
-        return data_sheet_no;
+    public String getDataSheetNo() {
+        return dataSheetNo;
     }
 
-    public void setData_sheet_no(String data_sheet_no) {
-        this.data_sheet_no = data_sheet_no;
+    public void setDataSheetNo(String dataSheetNo) {
+        this.dataSheetNo = dataSheetNo;
     }
 
-    public String getData_sheet_pdf() {
-        return data_sheet_pdf;
+    public String getDataSheetPdf() {
+        return dataSheetPdf;
     }
 
-    public void setData_sheet_pdf(String data_sheet_pdf) {
-        this.data_sheet_pdf = data_sheet_pdf;
+    public void setDataSheetPdf(String dataSheetPdf) {
+        this.dataSheetPdf = dataSheetPdf;
     }
 
     public Category getCategory() {
@@ -61,5 +77,29 @@ public class Product {
 
     public void setCategory(Category category) {
         this.category = category;
+    }
+
+    public ProductConstruction getConstruction() {
+        return construction;
+    }
+
+    public void setConstruction(ProductConstruction construction) {
+        this.construction = construction;
+    }
+
+    public ProductSize getSize() {
+        return size;
+    }
+
+    public void setSize(ProductSize size) {
+        this.size = size;
+    }
+
+    public ProductType getType() {
+        return type;
+    }
+
+    public void setType(ProductType type) {
+        this.type = type;
     }
 }
