@@ -16,5 +16,12 @@
         <!--<property name="connection.pool_size">1</property>-->
         <property name="show_sql">true</property>
 
+        <mapping class="com.alphahydro.wandfluh.Entity.Category" />
+        <mapping class="com.alphahydro.wandfluh.Entity.CategoryProperties" />
+        <mapping class="com.alphahydro.wandfluh.Entity.Product" />
+        <mapping class="com.alphahydro.wandfluh.Entity.ProductConstruction" />
+        <mapping class="com.alphahydro.wandfluh.Entity.ProductSize" />
+        <mapping class="com.alphahydro.wandfluh.Entity.ProductType" />
+
     </session-factory>
 </hibernate-configuration>
