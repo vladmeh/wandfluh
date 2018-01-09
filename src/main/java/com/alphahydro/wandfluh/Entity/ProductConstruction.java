@@ -18,6 +18,9 @@ public class ProductConstruction {
         this.name = name;
     }
 
+    public ProductConstruction() {
+    }
+
     public long getId() {
         return id;
     }
