@@ -1,0 +1,3725 @@
+[
+  {
+    "level": 0,
+    "link": "/ru/assortiment/klapany-perekljuchenija/zolotnikovye-klapany/",
+    "name": "Клапаны переключения",
+    "groups": [
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/zolotnikovye-klapany/",
+        "name": "Золотниковые клапаны",
+        "image": "csm_1_schieberventile_01_ee7cf6a864.gif",
+        "property": [
+          "Исполнение с прямым и с пилотным управлением",
+          "Фланцевая конструкция",
+          "Электрический, пневматический, гидравлический и механический привод",
+          "Типоразмеры NG3-mini, NG4-mini, NG4-ISO, NG6 и NG10",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Стандартно малые утечки",
+          "Большой выбор специальных поршней",
+          "Уменьшенный и увеличенный зазор между поршнем и цилиндром для специальных применений",
+          "Исполнения с плавным включением для уменьшения ударов включения",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zolotnikovye-klapany/zolotnikovye-klapany-s-prjamym-upravleniem/",
+            "name": "Золотниковые клапаны с прямым управлением",
+            "productCategories": [
+              {
+                "name": "С электромагнитным приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.2-26",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-mini",
+                    "type": "BM4x3",
+                    "pdfFile": "1_2_26p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-33",
+                    "construction": "Flange construction (slip-on coil)",
+                    "size": "NG4-Mini",
+                    "type": "WD.FA04",
+                    "pdfFile": "1_2_33p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-53",
+                    "construction": "Flange construction (slip-on coil)",
+                    "size": "NG4",
+                    "type": "WD.FB04",
+                    "pdfFile": "1_2_53p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-59",
+                    "construction": "Flange construction (slip-on coil)",
+                    "size": "NG6",
+                    "type": "WD.FA06",
+                    "pdfFile": "1_2_59p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-60",
+                    "construction": "Flange construction with 8 Watt spools",
+                    "size": "NG6",
+                    "type": "WD.FA06-../L8",
+                    "pdfFile": "1_2_60p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-62",
+                    "construction": "Flange construction with position monitoring",
+                    "size": "NG6",
+                    "type": "WDMFA06-..-Z...",
+                    "pdfFile": "1_2_62p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-76",
+                    "construction": "Flange construction (slip-on coil)",
+                    "size": "NG10",
+                    "type": "WDMFA10#1",
+                    "pdfFile": "1_2_76p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.2-77",
+                    "construction": "Flange construction with position monitoring",
+                    "size": "NG10",
+                    "type": "WDMFA10-..-Z...",
+                    "pdfFile": "1_2_77p_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С электромагнитным приводом, плавного переключения",
+                "products": [
+                  {
+                    "dataSheetNo": "1.4-13",
+                    "construction": "Flange construction",
+                    "size": "NG4-mini",
+                    "type": "WWMFA04",
+                    "pdfFile": "1_4_13p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.4-23",
+                    "construction": "Flange construction",
+                    "size": "NG4",
+                    "type": "WWMFB04",
+                    "pdfFile": "1_4_23p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.4-32",
+                    "construction": "Flange construction",
+                    "size": "NG6",
+                    "type": "WWMFA06",
+                    "pdfFile": "1_4_32p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.4-40",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "A.W4x10",
+                    "pdfFile": "1_4_40_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С механическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.5-10",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-mini",
+                    "type": "WDH/TFA03",
+                    "pdfFile": "1_5_10_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-15",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-mini",
+                    "type": "WDH/TFA03",
+                    "pdfFile": "1_5_15_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-20",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-Mini",
+                    "type": "BH/T4x4",
+                    "pdfFile": "1_5_20_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-25",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-Mini",
+                    "type": "BH/T4x4",
+                    "pdfFile": "1_5_25_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-40",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AH/T4x6",
+                    "pdfFile": "1_5_40_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-45",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AH/T4x6",
+                    "pdfFile": "1_5_45_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-50",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AH/T4x10",
+                    "pdfFile": "1_5_50_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.5-55",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AH/T4x10",
+                    "pdfFile": "1_5_55_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пневматическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.6-15",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-Mini",
+                    "type": "WDLFA03",
+                    "pdfFile": "1_6_15p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.6-20",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-Mini",
+                    "type": "BK4x4",
+                    "pdfFile": "1_6_20p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.6-30",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AK4x6",
+                    "pdfFile": "1_6_30p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.6-40",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AK4x10",
+                    "pdfFile": "1_6_40p_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С гидравлическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.7-15",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-Mini",
+                    "type": "WDFFA03",
+                    "pdfFile": "1_7_15_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.7-20",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-Mini",
+                    "type": "BP4x4",
+                    "pdfFile": "1_7_20_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.7-30",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AP4x6",
+                    "pdfFile": "1_7_30_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.7-40",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AP4x10",
+                    "pdfFile": "1_7_40_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zolotnikovye-klapany/zolotnikovye-klapany-s-pilotnym-upravleniem/",
+            "name": "Золотниковые клапаны с пилотным управлением",
+            "productCategories": [
+              {
+                "name": "С электромагнитным приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.9-31",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AMVP4x10",
+                    "pdfFile": "1_9_31_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.9-32",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "WVMFA10",
+                    "pdfFile": "1_9_32p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.9-38",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "WVYFA10",
+                    "pdfFile": "1_9_38p_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С механическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.9-31",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AHVP3x10",
+                    "pdfFile": "1_9_31_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пневматическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.9-31",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AKVP4X10",
+                    "pdfFile": "1_9_31_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/tarelchatye-klapany/",
+        "name": "Тарельчатые клапаны",
+        "image": "csm_sitzventile_01_9ac0fb0f5c.gif",
+        "property": [
+          "Исполнение с прямым и с пилотным управлением",
+          "Фланцевая, многослойная и патронная конструкция",
+          "Электрический, пневматический и механический приводы",
+          "Типоразмеры NG3-mini, NG4-mini, NG6 и NG10",
+          "Резьбовые патроны: M18x1,5, M22x1,5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 120 л/мин",
+          "Очень хорошая герметичность в обоих направлениях потока",
+          "Большой выбор функций и вариантов исполнения",
+          "Возможность вентиляции клапанов",
+          "Клапаны пропускают поток в обоих направлениях",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/tarelchatye-klapany/tarelchatye-klapany-s-prjamym-upravleniem/",
+            "name": "Тарельчатые клапаны с прямым управлением",
+            "productCategories": [
+              {
+                "name": "С электромагнитным приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-205A",
+                    "construction": "Poppet valve direct operated",
+                    "size": "",
+                    "type": "SDEPM20-BA",
+                    "pdfFile": "1_11_205A_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-205B",
+                    "construction": "Poppet valve direct operated",
+                    "size": "",
+                    "type": "SDEPU08-BA/AB",
+                    "pdfFile": "1_11_205B_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2010",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG3\"",
+                    "type": ".2203",
+                    "pdfFile": "1_11_2010_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2015",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG3\"",
+                    "type": ".2203-S1265",
+                    "pdfFile": "1_11_2015_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2020",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG4\"",
+                    "type": ".2204",
+                    "pdfFile": "1_11_2020_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2025",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG4\"",
+                    "type": ".2204-S1265",
+                    "pdfFile": "1_11_2025_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2030",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG6\"",
+                    "type": ".2206",
+                    "pdfFile": "1_11_2030_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2035",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG6\"",
+                    "type": ".2206-S1265",
+                    "pdfFile": "1_11_2035_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2040",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG10\"",
+                    "type": ".2210",
+                    "pdfFile": "1_11_2040_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2045",
+                    "construction": "Штепсельный патрон",
+                    "size": "\"NG10\"",
+                    "type": ".2210-S1265",
+                    "pdfFile": "1_11_2045_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2050",
+                    "construction": "Штепсельный патрон",
+                    "size": "M18x1,5",
+                    "type": "SDSPM18",
+                    "pdfFile": "1_11_2050_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2052",
+                    "construction": "Solenoid poppet valve cartridge EEx d II C M18",
+                    "size": "M18x1,5",
+                    "type": "SDYPM18",
+                    "pdfFile": "1_11_2052_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2054",
+                    "construction": "Solenoid poppet valve cartridge Exi,",
+                    "size": "M18x1,5",
+                    "type": "SDZPM18",
+                    "pdfFile": "1_11_2054_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2060",
+                    "construction": "Штепсельный патрон",
+                    "size": "M22x1,5",
+                    "type": "SDSPM22",
+                    "pdfFile": "1_11_2060_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2100",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "B.2203",
+                    "pdfFile": "1_11_2100_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2120",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "B.2204",
+                    "pdfFile": "1_11_2120_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2140",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "A.2206",
+                    "pdfFile": "1_11_2140_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2150",
+                    "construction": "Flange construction",
+                    "size": "NG6",
+                    "type": "A.4306",
+                    "pdfFile": "1_11_2150_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2160",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "A.2210",
+                    "pdfFile": "1_11_2160_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2500",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "Z.2203",
+                    "pdfFile": "1_11_2500_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2520",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "Z.2204",
+                    "pdfFile": "1_11_2520_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2540",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "Z.2206",
+                    "pdfFile": "1_11_2540_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2560",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "Z.2210",
+                    "pdfFile": "1_11_2560_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С ручным приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-5120",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BH2204",
+                    "pdfFile": "1_11_5120_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-5140",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AH2206",
+                    "pdfFile": "1_11_5140_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-5160",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AH2210",
+                    "pdfFile": "1_11_5160_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пневматическим приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-6120",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BK2204",
+                    "pdfFile": "1_11_6120_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-6140",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "AK2206",
+                    "pdfFile": "1_11_6140_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-6160",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AK2210",
+                    "pdfFile": "1_11_6160_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/tarelchatye-klapany/tarelchatye-klapany-s-pilotnym-upravleniem/",
+            "name": "Тарельчатые клапаны с пилотным управлением",
+            "productCategories": [
+              {
+                "name": "С электромагнитным приводом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-208A",
+                    "construction": "Poppet valve pilot operated",
+                    "size": "",
+                    "type": "SVEPM20-BC",
+                    "pdfFile": "1_11_208A_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-208B",
+                    "construction": "Poppet valve pilot operated",
+                    "size": "",
+                    "type": "SVEPU08-BC/CB/BA",
+                    "pdfFile": "1_11_208B_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2065",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "SVSPM22",
+                    "pdfFile": "1_11_2065_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2076",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "SVSPM33",
+                    "pdfFile": "1_11_2076_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2080",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "SVSPM20-BC/CB",
+                    "pdfFile": "1_11_2080_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2081",
+                    "construction": "Резьбовой патрон",
+                    "size": "M20x1,5",
+                    "type": "SVSPM20-BC/CB",
+                    "pdfFile": "1_11_2081_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2082",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "SVSPM22-BC/CB",
+                    "pdfFile": "1_11_2082_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2083",
+                    "construction": "Резьбовой патрон",
+                    "size": "3/4\"-16UNF",
+                    "type": "SVSPU08-BC/CB",
+                    "pdfFile": "1_11_2083_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2091",
+                    "construction": "Резьбовой патрон",
+                    "size": "M42x2",
+                    "type": "SVSPM42",
+                    "pdfFile": "1_11_2091_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/",
+        "name": "Клапаны давления",
+        "image": "csm_1_druckventile_4b5f6430aa.gif",
+        "property": [
+          "Клапаны ограничения, регулирования, подпора давления, следящие, регулирующие заряд гидроаккумулятора",
+          "Фланцевая, многослойная и патронная конструкция",
+          "Ручной привод",
+          "Типоразмеры NG3-mini, NG4-mini, NG6 и NG10",
+          "Резьбовые патроны: M18x1.5; M22x1.5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Исполнения с ручным приводом, регулирование поворотной ручкой, ключом и кнопкой с фиксацией",
+          "Большой выбор функций и вариантов исполнений",
+          "Исполнения с пилотным управлением для больших потоков",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/redukcionnyi-klapan/",
+            "name": "Редукционный клапан",
+            "productCategories": [
+              {
+                "name": "С прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-520",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "BS.PM18",
+                    "pdfFile": "2_1_520_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-523",
+                    "construction": "Ограничивающие давление патроны с прямым управлением, leakage free",
+                    "size": "3/4\"",
+                    "type": "BESPU08",
+                    "pdfFile": "2_1_523_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-540",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BA.PM22",
+                    "pdfFile": "2_1_540_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-542",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BK.PM22",
+                    "pdfFile": "2_1_542_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-544",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BX/BY.PM22",
+                    "pdfFile": "2_1_544_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-600",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "B.S/FA03",
+                    "pdfFile": "2_1_600_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-620",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "B.S/FA04",
+                    "pdfFile": "2_1_620_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-640",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "B.S/FA06",
+                    "pdfFile": "2_1_640_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-660",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "B.S/FA10",
+                    "pdfFile": "2_1_660_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "BV.PM18",
+                    "pdfFile": "2_1_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-530",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BV.PM22",
+                    "pdfFile": "2_1_530_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-532",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BVTPM22",
+                    "pdfFile": "2_1_532_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-534",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BV.PM22-Z9",
+                    "pdfFile": "2_1_534_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-536",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BVEPM22",
+                    "pdfFile": "2_1_536_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-538",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M22x1,5",
+                    "type": "BC.PM22",
+                    "pdfFile": "2_1_538_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-550",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M33x2",
+                    "type": "BV.PM33",
+                    "pdfFile": "2_1_550_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-600",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "B.S/FA03",
+                    "pdfFile": "2_1_600_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-620",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "B.S/FA04",
+                    "pdfFile": "2_1_620_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-640",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "B.S/FA06",
+                    "pdfFile": "2_1_640_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-660",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "B.S/FA10",
+                    "pdfFile": "2_1_660_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/klapany-regulirovki-davlenija/",
+            "name": "Клапаны регулировки давления",
+            "productCategories": [
+              {
+                "name": "С прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.2-508",
+                    "construction": "Резьбовой патрон",
+                    "size": "M16x1,5",
+                    "type": "MDSPM16",
+                    "pdfFile": "2_2_508_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-605",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "MD.S/FA03",
+                    "pdfFile": "2_2_605_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-630",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BDRVd.4",
+                    "pdfFile": "2_2_630_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-650",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "ADRVd.6",
+                    "pdfFile": "2_2_650_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-670",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "ADRVd.10",
+                    "pdfFile": "2_2_670_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.2-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "MV.PM18",
+                    "pdfFile": "2_2_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-530",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "MV.PM22",
+                    "pdfFile": "2_2_530_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-536",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "MVEPM22",
+                    "pdfFile": "2_2_536_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-600",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "MV.S/FA03",
+                    "pdfFile": "2_2_600_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-620",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "MV.S/FA04",
+                    "pdfFile": "2_2_620_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-640",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "MV.S/FA06",
+                    "pdfFile": "2_2_640_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.2-660",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "MV.S/FA10",
+                    "pdfFile": "2_2_660_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/podpornye-klapany/",
+            "name": "Подпорные клапаны",
+            "productCategories": [
+              {
+                "name": "С прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-700",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "G.SA03",
+                    "pdfFile": "2_1_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-720",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "G.SA04",
+                    "pdfFile": "2_1_720_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-740",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "G.SA06",
+                    "pdfFile": "2_1_740_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-760",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "G.SA10",
+                    "pdfFile": "2_1_760_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/sledjashchie-klapany/",
+            "name": "Следящие клапаны",
+            "productCategories": [
+              {
+                "name": "С пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-546",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "FV.PM22",
+                    "pdfFile": "2_1_546_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-820",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "FV.SA04",
+                    "pdfFile": "2_1_820_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-840",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "FV.SA06",
+                    "pdfFile": "2_1_840_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-860",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "FV.SA10",
+                    "pdfFile": "2_1_860_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/klapany-davlenija/klapany-regulirujushchie-zarjad-gidroakkumuljatora/",
+            "name": "Клапаны, регулирующие заряд гидроаккумулятора",
+            "productCategories": [
+              {
+                "name": "С пилотным управлением, с 1 настраиваемой точкой переключения",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-548",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "US.PM22",
+                    "pdfFile": "2_1_548_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-920",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "US.SA04",
+                    "pdfFile": "2_1_920_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-940",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "US.SA06",
+                    "pdfFile": "2_1_940_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-960",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "US.SA10",
+                    "pdfFile": "2_1_960_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пилотным управлением, с 2-мя настраиваемыми точками переключения",
+                "products": [
+                  {
+                    "dataSheetNo": "2.1-950",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "ASPLV62",
+                    "pdfFile": "2_1_950_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.1-970",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "ASPLV102",
+                    "pdfFile": "2_1_970_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/",
+        "name": "Поточные клапаны",
+        "image": "csm_1_stromventile_2603bba366.gif",
+        "property": [
+          "Клапаны дроссельные, дроссельные обратные и регулирующие объемный расход, разности давлений и механизмы подачи",
+          "Фланцевая, многослойная и патронная конструкция",
+          "Ручной привод",
+          "Регулирующие объемный расход клапаны 2-х и 3-ходовые",
+          "Типоразмеры NG3-mini, NG4-mini, NG6 и NG10",
+          "Резьбовые патроны: M18x1.5; M22x1.5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Исполнения с ручным приводом, регулирование поворотной ручкой, ключом и кнопкой с фиксацией",
+          "Большой выбор функций и вариантов исполнения",
+          "Хорошая чувствительность и точность регулирования",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/drosselnye-klapany/",
+            "name": "Дроссельные клапаны",
+            "productCategories": [
+              {
+                "name": "Дроссельные клапаны",
+                "products": [
+                  {
+                    "dataSheetNo": "2.4-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "DN.PM18",
+                    "pdfFile": "2_4_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-512",
+                    "construction": "Screw-in construction",
+                    "size": "M18x1,5",
+                    "type": "DNIPM18",
+                    "pdfFile": "2_4_512_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-532",
+                    "construction": "Screw-in construction",
+                    "size": "M22x1,5",
+                    "type": "DNIPM22",
+                    "pdfFile": "2_4_532_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-552",
+                    "construction": "Screw-in construction",
+                    "size": "M33x2",
+                    "type": "DNIPM33",
+                    "pdfFile": "2_4_552_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-700",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "DN.SA03",
+                    "pdfFile": "2_4_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-730",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BDR..4",
+                    "pdfFile": "2_4_730_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-750",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "ADR..6",
+                    "pdfFile": "2_4_750_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-770",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "ADR..10",
+                    "pdfFile": "2_4_770_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/drosselnye-obratnye-klapany/",
+            "name": "Дроссельные обратные клапаны",
+            "productCategories": [
+              {
+                "name": "Дроссельные обратные клапаны",
+                "products": [
+                  {
+                    "dataSheetNo": "2.4-610",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "DR.PM18",
+                    "pdfFile": "2_4_610_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-800",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "DR.SA03",
+                    "pdfFile": "2_4_800_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-835",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BURD4",
+                    "pdfFile": "2_4_835_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-850",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "AURD6",
+                    "pdfFile": "2_4_850_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.4-870",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "AURD10",
+                    "pdfFile": "2_4_870_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/klapany-regulirovanija-obemnogo-raskhoda/",
+            "name": "Клапаны регулирования объемного расхода",
+            "productCategories": [
+              {
+                "name": "2-ходовые",
+                "products": [
+                  {
+                    "dataSheetNo": "2.5-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "QA.PM18",
+                    "pdfFile": "2_5_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-530",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "QRSPM22",
+                    "pdfFile": "2_5_530_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-535",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "QZ.PM22",
+                    "pdfFile": "2_5_535_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-550",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "QZ.PM33",
+                    "pdfFile": "2_5_550_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-700",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "QA.S/FA03",
+                    "pdfFile": "2_5_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-720",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "QZ.S/FA04",
+                    "pdfFile": "2_5_720_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-740",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "QZ.S/FA06",
+                    "pdfFile": "2_5_740_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-760",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "QZ.S/FA10",
+                    "pdfFile": "2_5_760_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "3-ходовые",
+                "products": [
+                  {
+                    "dataSheetNo": "2.5-540",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "QD.PM22",
+                    "pdfFile": "2_5_540_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-555",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "QD.PM33",
+                    "pdfFile": "2_5_555_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-742",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "QD.S/FA06",
+                    "pdfFile": "2_5_742_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-762",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "QD.S/FA10",
+                    "pdfFile": "2_5_762_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/klapany-raznosti-davlenii/",
+            "name": "Клапаны разности давлений",
+            "productCategories": [
+              {
+                "name": "Клапаны разности давлений",
+                "products": [
+                  {
+                    "dataSheetNo": "2.5-630",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "U.FPM22",
+                    "pdfFile": "2_5_630_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-650",
+                    "construction": "Резьбовой патрон",
+                    "size": "N33x2",
+                    "type": "U.FPM33",
+                    "pdfFile": "2_5_650_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-820",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "U.FSA04",
+                    "pdfFile": "2_5_820_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-840",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "U.FSA06",
+                    "pdfFile": "2_5_840_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-860",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "U.FSA10",
+                    "pdfFile": "2_5_860_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/potochnye-klapany/mekhanizmy-podachi/",
+            "name": "Механизмы подачи",
+            "productCategories": [
+              {
+                "name": "Механизмы подачи",
+                "products": [
+                  {
+                    "dataSheetNo": "2.5-920",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "VQSA04",
+                    "pdfFile": "2_5_920_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-940",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "VQ.SA06",
+                    "pdfFile": "2_5_940_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.5-960",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "VQSA10",
+                    "pdfFile": "2_5_960_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/zapornye-klapany/",
+        "name": "Запорные клапаны",
+        "image": "csm_1_sperrventile_3faf5d59f6.gif",
+        "property": [
+          "Обратные и сервоуправляемые обратные клапаны",
+          "Сливные краны и предохранительные клапаны на случай разрыва трубы",
+          "Фланцевая, многослойная и патронная конструкция",
+          "Ручной привод",
+          "Типоразмеры NG3-mini, NG4-mini, NG6 и NG10",
+          "Резьбовые патроны: M22x1,5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Большой выбор функций и вариантов исполнения",
+          "Исполнения с повышенной коррозионной стойкостью",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zapornye-klapany/klapany-obratnye/",
+            "name": "Клапаны обратные",
+            "productCategories": [
+              {
+                "name": "Клапаны обратные",
+                "products": [
+                  {
+                    "dataSheetNo": "2.7-15",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "RNNSA03",
+                    "pdfFile": "2_7_15_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-20",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BRV..4",
+                    "pdfFile": "2_7_20_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-41",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "RNNSA06",
+                    "pdfFile": "2_7_41_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-50",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "ARV..10",
+                    "pdfFile": "2_7_50_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zapornye-klapany/klapany-obratnye-razblokiruemye/",
+            "name": "Клапаны обратные разблокируемые",
+            "productCategories": [
+              {
+                "name": "Клапаны обратные разблокируемые",
+                "products": [
+                  {
+                    "dataSheetNo": "2.7-62",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "RNXPM33",
+                    "pdfFile": "2_7_62_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-65",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "BDERV3",
+                    "pdfFile": "2_7_65_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-70",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BDERV4",
+                    "pdfFile": "2_7_70_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-72",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-ISO",
+                    "type": "RNXSB04",
+                    "pdfFile": "2_7_72_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-90",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "ADERV6",
+                    "pdfFile": "2_7_90_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-100",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "ADERV10",
+                    "pdfFile": "2_7_100_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zapornye-klapany/krany-slivnye/",
+            "name": "Краны сливные",
+            "productCategories": [
+              {
+                "name": "Краны сливные",
+                "products": [
+                  {
+                    "dataSheetNo": "2.7-150",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BAH.4",
+                    "pdfFile": "2_7_150_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-160",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "AAH.6",
+                    "pdfFile": "2_7_160_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-170",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "AAH.10",
+                    "pdfFile": "2_7_170_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/zapornye-klapany/predokhraniteli-ot-razryva-trub/",
+            "name": "Предохранители от разрыва труб",
+            "productCategories": [
+              {
+                "name": "Предохранители от разрыва труб",
+                "products": [
+                  {
+                    "dataSheetNo": "2.7-130",
+                    "construction": "для монтажа в трубе",
+                    "size": "\"NG6\"",
+                    "type": "RBS.638",
+                    "pdfFile": "2_7_130_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.7-140",
+                    "construction": "для монтажа в трубе",
+                    "size": "\"NG10\"",
+                    "type": "RBS.1012",
+                    "pdfFile": "2_7_140_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-perekljuchenija/2-khodovye-vstraivaemye-klapany/",
+        "name": "2-ходовые встраиваемые клапаны",
+        "image": "csm_1_2-wege-einbauteile_a02d83f0d5.gif",
+        "property": [
+          "Патроны и крышки",
+          "Штепсельные патроны по ISO7368/DIN24342",
+          "Крышка управления с клапанами управления Wandfluh",
+          "Типоразмеры NG16, NG25, NG32 и NG40",
+          "Максимальное давление 350 бар",
+          "Объемный расход до 1200 л/мин",
+          "Большой выбор функций и вариантов исполнения",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/2-khodovye-vstraivaemye-klapany/patrony/",
+            "name": "Патроны",
+            "productCategories": [
+              {
+                "name": "Патроны",
+                "products": [
+                  {
+                    "dataSheetNo": "1.12-210",
+                    "construction": "2-ходовые встраиваемые клапаны",
+                    "size": "NG16",
+                    "type": "C.16",
+                    "pdfFile": "1_12_210_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-220",
+                    "construction": "2-ходовые встраиваемые клапаны",
+                    "size": "NG25",
+                    "type": "C.25",
+                    "pdfFile": "1_12_220_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-230",
+                    "construction": "2-ходовые встраиваемые клапаны",
+                    "size": "NG32",
+                    "type": "C.32",
+                    "pdfFile": "1_12_230_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-240",
+                    "construction": "2-ходовые встраиваемые клапаны",
+                    "size": "NG40",
+                    "type": "C.40",
+                    "pdfFile": "1_12_240_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-perekljuchenija/2-khodovye-vstraivaemye-klapany/kryshka-s-klapanami-upravlenija/",
+            "name": "Крышка с клапанами управления",
+            "productCategories": [
+              {
+                "name": "Крышка с клапанами управления Для функций хода",
+                "products": [
+                  {
+                    "dataSheetNo": "1.12-405",
+                    "construction": "Крышка управления",
+                    "size": "NG16",
+                    "type": "D16",
+                    "pdfFile": "1_12_405_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-410",
+                    "construction": "Крышка управления",
+                    "size": "NG25",
+                    "type": "D25",
+                    "pdfFile": "1_12_410_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-415",
+                    "construction": "Крышка управления",
+                    "size": "NG32",
+                    "type": "D32",
+                    "pdfFile": "1_12_415_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-420",
+                    "construction": "Крышка управления",
+                    "size": "NG40",
+                    "type": "D40",
+                    "pdfFile": "1_12_420_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Для функций давления",
+                "products": [
+                  {
+                    "dataSheetNo": "1.12-425",
+                    "construction": "Крышка управления",
+                    "size": "NG16",
+                    "type": "D16",
+                    "pdfFile": "1_12_425_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-430",
+                    "construction": "Крышка управления",
+                    "size": "NG25",
+                    "type": "D25",
+                    "pdfFile": "1_12_430_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-435",
+                    "construction": "Крышка управления",
+                    "size": "NG32",
+                    "type": "D32",
+                    "pdfFile": "1_12_435_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-440",
+                    "construction": "Крышка управления",
+                    "size": "NG40",
+                    "type": "D40",
+                    "pdfFile": "1_12_440_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Для функций блокировки",
+                "products": [
+                  {
+                    "dataSheetNo": "1.12-445",
+                    "construction": "Крышка управления",
+                    "size": "NG16",
+                    "type": "D16",
+                    "pdfFile": "1_12_445_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-450",
+                    "construction": "Крышка управления",
+                    "size": "NG25",
+                    "type": "D25",
+                    "pdfFile": "1_12_450_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-455",
+                    "construction": "Крышка управления",
+                    "size": "NG32",
+                    "type": "D32",
+                    "pdfFile": "1_12_455_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.12-460",
+                    "construction": "Крышка управления",
+                    "size": "NG40",
+                    "type": "D40",
+                    "pdfFile": "1_12_460_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 0,
+    "link": "/ru/assortiment/klapany-proporcionalnye/klapany-proporcionalnye-zolotnikovye/",
+    "name": "Клапаны пропорциональные",
+    "groups": [
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-proporcionalnye/klapany-proporcionalnye-zolotnikovye/",
+        "name": "Клапаны пропорциональные золотниковые",
+        "image": "csm_1_proportional-schieberventile_145920839c.gif",
+        "property": [
+          "Исполнение с прямым и с пилотным управлением",
+          "Фланцевая конструкция",
+          "с встроенной электроникой (DSV)",
+          "С регулированием положения поршня (LVDT)",
+          "Типоразмеры NG-3 и NG-4 мини, NG4, NG6 и NG10 ISO",
+          "Screw-in cartridge 7/8\"-14 and 3/4\"-16 UNF",
+          "Максимальное давление 350 бар",
+          "Объемный расход до 200 л/мин",
+          "Стандартно малые утечки",
+          "Малый гистерезис и точное разрешение",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-proporcionalnye-zolotnikovye/proporcionalnye-zolotnikovye-klapany-s-prjamym-upravleniem/",
+            "name": "Пропорциональные золотниковые клапаны с прямым управлением",
+            "productCategories": [
+              {
+                "name": "с компенсацией нагрузки",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-06",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "VWS4x4",
+                    "pdfFile": "1_10_06_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-11",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "VWS4x6",
+                    "pdfFile": "1_10_11_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-20",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "VWS4x10",
+                    "pdfFile": "1_10_20_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "без компенсации нагрузки",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-2710",
+                    "construction": "Screw-in cartridge type",
+                    "size": "3/4\"-16 UNF",
+                    "type": "WDPPU08",
+                    "pdfFile": "1_10_2710p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-2720",
+                    "construction": "Screw-in cartridge type",
+                    "size": "7/8\"-14 UNF",
+                    "type": "WDPPU10",
+                    "pdfFile": "1_10_2720p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-66",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "WDPFA03#2",
+                    "pdfFile": "1_10_66p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-73",
+                    "construction": "Flange construction",
+                    "size": "NG4-мини",
+                    "type": "WDPFA04",
+                    "pdfFile": "1_10_73p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-74",
+                    "construction": "Flange construction",
+                    "size": "NG4",
+                    "type": "WDPFB04",
+                    "pdfFile": "1_10_74p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-77",
+                    "construction": "Flange construction",
+                    "size": "NG6",
+                    "type": "WDPFA06",
+                    "pdfFile": "1_10_77p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-3400",
+                    "construction": "Flange construction",
+                    "size": "NG10",
+                    "type": "WDPFA10",
+                    "pdfFile": "1_10_3400p_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с встроенной электроникой",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-70",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BRW4x4",
+                    "pdfFile": "1_10_70_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-3240",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "WDPFA04-../ME",
+                    "pdfFile": "1_10_3240_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-82",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "WDRFA06",
+                    "pdfFile": "1_10_82_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-83",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "WDRFA06-ACB1",
+                    "pdfFile": "1_10_83_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-3340",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "WDPFA06-../ME",
+                    "pdfFile": "1_10_3340_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Ex protection",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-88",
+                    "construction": "Flange construction",
+                    "size": "NG6",
+                    "type": "WDBFA06",
+                    "pdfFile": "1_10_88_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-proporcionalnye-zolotnikovye/klapany-proporcionalnye-zolotnikovye-s-pilotnym-upravleniem/",
+            "name": "Клапаны пропорциональные золотниковые с пилотным управлением",
+            "productCategories": [
+              {
+                "name": "без компенсации нагрузки",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-95",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "AVPW4x10",
+                    "pdfFile": "1_10_95_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-3500",
+                    "construction": "Фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "WVPFA10",
+                    "pdfFile": "1_10_3500p_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-2310",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M33x2",
+                    "type": "WVPPM33",
+                    "pdfFile": "1_10_2310_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.10-2410",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M42x2",
+                    "type": "WVPPM42",
+                    "pdfFile": "1_10_2410_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-proporcionalnye/klapany-davlenija-proporcionalnye/",
+        "name": "Клапаны давления пропорциональные",
+        "image": "csm_1_proportional-druckventile_78ffa11e29.gif",
+        "property": [
+          "Клапаны редукционные пропорциональные и клапаны регулировки давления пропорциональные",
+          "Исполнение с прямым и с пилотным управлением",
+          "Фланцевая, многослойная и патронная конструкция",
+          "с встроенной электроникой (DSV)",
+          "Типоразмеры NG3-мини, NG4-мини, NG6 и NG10",
+          "Резьбовые патроны: M18x1,5, M22x1,5 и M33x2",
+          "",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Малый гистерезис и точное разрешение",
+          "Большой выбор функций и вариантов исполнения",
+          "Исполнения с пилотным управлением для больших объемных расходов",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-davlenija-proporcionalnye/proporcionalnye-redukcionnye-klapany/",
+            "name": "Пропорциональные редукционные клапаны",
+            "productCategories": [
+              {
+                "name": "с прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-520",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "BDPPM18",
+                    "pdfFile": "2_3_520_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-539",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BDPPM22",
+                    "pdfFile": "2_3_539_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-548",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BDIPM22",
+                    "pdfFile": "2_3_548_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-571",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "M22x1,5",
+                    "type": "BSPPM22",
+                    "pdfFile": "2_3_571_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-700",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "BDPS/FA03",
+                    "pdfFile": "2_3_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-720",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BDPS/FA04",
+                    "pdfFile": "2_3_720_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-740",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "BDPS/FA06",
+                    "pdfFile": "2_3_740_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-760",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "BDPS/FA10",
+                    "pdfFile": "2_3_760_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "BVPPM18",
+                    "pdfFile": "2_3_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-528",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BVIPM22",
+                    "pdfFile": "2_3_528_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-529",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BVPPM22",
+                    "pdfFile": "2_3_529_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-533",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "BNIPM22",
+                    "pdfFile": "2_3_533_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-551",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "BVPPM33",
+                    "pdfFile": "2_3_551_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-590",
+                    "construction": "Резьбовой патрон",
+                    "size": "M42x2",
+                    "type": "BVPPM42",
+                    "pdfFile": "2_3_590_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-700",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "BVPS/FA03",
+                    "pdfFile": "2_3_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-720",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "BVPS/FA04",
+                    "pdfFile": "2_3_720_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-740",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "BVPS/FA06",
+                    "pdfFile": "2_3_740_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-760",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "BVPS/FA10",
+                    "pdfFile": "2_3_760_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с встроенной электроникой",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-561",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BDPPM22-../ME",
+                    "pdfFile": "2_3_561_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-562",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BDIPM22-../ME",
+                    "pdfFile": "2_3_562_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-537",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "BVPPM22-../ME",
+                    "pdfFile": "2_3_537_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-553",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "BVPPM33-../ME",
+                    "pdfFile": "2_3_553_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-davlenija-proporcionalnye/klapany-regulirovki-davlenija-proporcionalnye/",
+            "name": "Клапаны регулировки давления пропорциональные",
+            "productCategories": [
+              {
+                "name": "с прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-603",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M16x1,5",
+                    "type": "MDIPM16",
+                    "pdfFile": "2_3_603_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-605",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M16x1,5",
+                    "type": "MDPPM16",
+                    "pdfFile": "2_3_605_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-607",
+                    "construction": "Screw-in cartridge construction",
+                    "size": "M16x1,5",
+                    "type": "MGPPM16",
+                    "pdfFile": "2_3_607_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-671",
+                    "construction": "Патрон регулирования давления",
+                    "size": "Ø11",
+                    "type": "MDPR11",
+                    "pdfFile": "2_3_671_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-610",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "MVPPM18",
+                    "pdfFile": "2_3_610_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-629",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "MVPPM22",
+                    "pdfFile": "2_3_629_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-641",
+                    "construction": "Screw-in cartridge construction (slip-in coil)",
+                    "size": "M22x1,5",
+                    "type": "MQPPM22",
+                    "pdfFile": "2_3_641_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-649",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "MVPPM33",
+                    "pdfFile": "2_3_649_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-672",
+                    "construction": "Резьбовой патрон",
+                    "size": "7/8\"",
+                    "type": "MVPPU10",
+                    "pdfFile": "2_3_672_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-690",
+                    "construction": "Резьбовой патрон",
+                    "size": "M42x2",
+                    "type": "MVPPM42",
+                    "pdfFile": "2_3_690_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-800",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "MVPS/FA03",
+                    "pdfFile": "2_3_800_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-820",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "M.PS/FA04",
+                    "pdfFile": "2_3_820_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-840",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "M.PS/FA06",
+                    "pdfFile": "2_3_840_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-860",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "MVPS/FA10",
+                    "pdfFile": "2_3_860_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с встроенной электроникой",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-632",
+                    "construction": "Резьбовой патрон (Slip-in coil)",
+                    "size": "M22x1,5",
+                    "type": "MVPPM22-../ME",
+                    "pdfFile": "2_3_632_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-643",
+                    "construction": "Резьбовой патрон (Slip-in coil)",
+                    "size": "M22x1,5",
+                    "type": "MQPPM22-../ME",
+                    "pdfFile": "2_3_643_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-652",
+                    "construction": "Резьбовой патрон (Slip-in coil)",
+                    "size": "M33x2",
+                    "type": "MVPPM33-../ME",
+                    "pdfFile": "2_3_652_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/klapany-proporcionalnye/klapany-potochnye-proporcionalnye/",
+        "name": "Клапаны поточные пропорциональные",
+        "image": "csm_1_proportional-stromventile_2a4a3a01a6.gif",
+        "property": [
+          "Клапаны дроссельные пропорциональные и клапаны регулирования объемного расхода пропорциональные",
+          "Клапаны регулирования объемного расхода в 2- и 3-ходовом исполнении",
+          "Фланцевая, многослойная и патронная конструкция",
+          "С встроенной электроникой (DSV)",
+          "\"Все в одном\" (регулятор расхода/тарельчатый клапан/ограничитель скорости)",
+          "Типоразмеры NG3-мини, NG4-мини, NG6 и NG10",
+          "Резьбовые патроны: M18x1,5, M22x1,5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Малый гистерезис и точное разрешение",
+          "Большой выбор функций и вариантов исполнения",
+          "Исполнения с пилотным управлением для больших объемных расходов",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-potochnye-proporcionalnye/klapany-drosselnye-proporcionalnye/",
+            "name": "Клапаны дроссельные пропорциональные",
+            "productCategories": [
+              {
+                "name": "Клапаны дроссельные пропорциональные",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-510",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "D.PPM18",
+                    "pdfFile": "2_6_510_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-531",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "DNPPM22",
+                    "pdfFile": "2_6_531_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-551",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "DNPPM33",
+                    "pdfFile": "2_6_551_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-700",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG3-мини",
+                    "type": "D.P.A03",
+                    "pdfFile": "2_6_700_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-720",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "D.P.A04",
+                    "pdfFile": "2_6_720_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-740",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "D.P.A06",
+                    "pdfFile": "2_6_740_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-760",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "DNP.A10",
+                    "pdfFile": "2_6_760_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с встроенной электроникой",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-541",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "DNPPM22-../ME",
+                    "pdfFile": "2_6_541_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-561",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "DNPPM33-../ME",
+                    "pdfFile": "2_6_561_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/klapany-proporcionalnye/klapany-potochnye-proporcionalnye/klapany-regulirovanija-obemnogo-raskhoda-proporcionalnye/",
+            "name": "Клапаны регулирования объемного расхода пропорциональные",
+            "productCategories": [
+              {
+                "name": "2-ходовые",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-610",
+                    "construction": "Резьбовой патрон",
+                    "size": "M18x1,5",
+                    "type": "QZPPM18",
+                    "pdfFile": "2_6_610_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-631",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "QNPPM22",
+                    "pdfFile": "2_6_631_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-651",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "QNPPM33",
+                    "pdfFile": "2_6_651_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-675",
+                    "construction": "Резьбовой патрон",
+                    "size": "1 5/16\"",
+                    "type": "QNPPU16",
+                    "pdfFile": "2_6_675_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-690",
+                    "construction": "Screw-in cartridge construction (slip-in coil)",
+                    "size": "M42x2",
+                    "type": "QNPPM42",
+                    "pdfFile": "2_6_690_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-820",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG4-мини",
+                    "type": "QNPS/FA04",
+                    "pdfFile": "2_6_820_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-840",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "QNPS/FA06",
+                    "pdfFile": "2_6_840_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-860",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "QNPS/FA10",
+                    "pdfFile": "2_6_860_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "3-ходовые",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-644",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M22x1,5",
+                    "type": "QDPPM22",
+                    "pdfFile": "2_6_644_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-666",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "QDPPM33",
+                    "pdfFile": "2_6_666_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-670",
+                    "construction": "Резьбовой патрон",
+                    "size": "1 5/16\"",
+                    "type": "QDPPU16",
+                    "pdfFile": "2_6_670_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-695",
+                    "construction": "Screw-in cartridge construction (slip-in coil)",
+                    "size": "M42x2",
+                    "type": "QDPPM42",
+                    "pdfFile": "2_6_695_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-842",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG6",
+                    "type": "QDPS/FA06",
+                    "pdfFile": "2_6_842_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-862",
+                    "construction": "Многослойная/фланцевая конструкция",
+                    "size": "NG10",
+                    "type": "QDPS/FA10",
+                    "pdfFile": "2_6_862_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "\"Все в одном\"",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-661",
+                    "construction": "Резьбовой патрон (сменная катушка)",
+                    "size": "M33x2",
+                    "type": "QSPPM33",
+                    "pdfFile": "2_6_661_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "с встроенной электроникой",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-633",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "QNPPM22-../ME",
+                    "pdfFile": "2_6_633_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-647",
+                    "construction": "Резьбовой патрон",
+                    "size": "M22x1,5",
+                    "type": "QDPPM22-../ME",
+                    "pdfFile": "2_6_647_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-659",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "QNPPM33-../ME",
+                    "pdfFile": "2_6_659_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.6-668",
+                    "construction": "Резьбовой патрон",
+                    "size": "M33x2",
+                    "type": "QDPPM33-../ME",
+                    "pdfFile": "2_6_668_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 0,
+    "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-usiliteli/",
+    "name": "Электронное оборудование",
+    "groups": [
+      {
+        "level": 1,
+        "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-usiliteli/",
+        "name": "Электронные усилители",
+        "image": "csm_1_verstaerkerelektronik_9e1891f490.gif",
+        "property": [
+          "Аналоговые и цифровые усилители",
+          "Для применения в промышленных и мобильных изделиях",
+          "В виде штекерного разъема, в формате Europe card, как модуль с защелкой и как мобильная электроника",
+          "Для управления одним, двумя, четырьмя или восемью пропорциональными электромагнитами",
+          "Разъем соответствует DIN 43650, конструкция A для простых применений",
+          "Europe card и модуль с защелкой с возможностью параметризации на передней панели или с помощью управляемой через меню ПО диагностики и параметризации Стандартные исполнения расширяются дополнительными модулями и функциями",
+          "Простое и быстрое обращение",
+          "Возможность адаптации к требованиям клиента без изменения аппаратной части",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-usiliteli/analogovye-ehlektronnye-usiliteli/",
+            "name": "Аналоговые электронные усилители",
+            "productCategories": [
+              {
+                "name": "Аналоговые электронные усилители",
+                "products": [
+                  {
+                    "dataSheetNo": "1.13-62",
+                    "construction": "Тип разъема",
+                    "type": "P02",
+                    "pdfFile": "1_13_62_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-usiliteli/cifrovye-ehlektronnye-usiliteli/",
+            "name": "Цифровые электронные усилители",
+            "productCategories": [
+              {
+                "name": "Цифровые электронные усилители",
+                "products": [
+                  {
+                    "dataSheetNo": "1.13-64",
+                    "construction": "With cabele outlet",
+                    "type": "PD2",
+                    "pdfFile": "1_13_64_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-101",
+                    "construction": "Модуль с защелкой",
+                    "type": "SD7",
+                    "pdfFile": "1_13_101_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-240",
+                    "construction": "Мобильная электроника",
+                    "type": "MD2",
+                    "pdfFile": "1_13_240_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "PME (Programmable Mobile Electronics)",
+                "products": [
+                  {
+                    "dataSheetNo": "1.13-270",
+                    "construction": "Digital mobile electronics CL-307",
+                    "type": "PME",
+                    "pdfFile": "1_13_275_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-275",
+                    "construction": "Digital mobile electronics CL-446",
+                    "type": "PME",
+                    "pdfFile": "1_13_275_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-280",
+                    "construction": "Digital mobile electronics CL-449",
+                    "type": "PME",
+                    "pdfFile": "1_13_280_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-285",
+                    "construction": "Digital mobile electronics CL-450",
+                    "type": "PME",
+                    "pdfFile": "1_13_285_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-290",
+                    "construction": "Digital mobile electronics CL-451",
+                    "type": "PME",
+                    "pdfFile": "1_13_290_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-300",
+                    "construction": "Digital mobile electronics keypad CL-609",
+                    "type": "PME",
+                    "pdfFile": "1_13_300_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-310",
+                    "construction": "Mobile electronics Display CL-709",
+                    "type": "PME",
+                    "pdfFile": "1_13_310_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-320",
+                    "construction": "Mobile electronics Display CL-711",
+                    "type": "PME",
+                    "pdfFile": "1_13_320_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-ustroistva-regulirovanija/",
+        "name": "Электронные устройства регулирования",
+        "image": "csm_1_reglerelektronik_8e66c30a82.gif",
+        "property": [
+          "Цифровые устройства регулирования",
+          "Регуляторы положения, давления, объемного расхода и расхода",
+          "Осевой регулятор со свободно настраиваемыми профилями движения",
+          "Для аналоговых и частично цифровых систем измерения",
+          "Для применения в промышленности",
+          "В формате Europe card и как модуль с защелкой",
+          "Для управления двумя или четырьмя пропорциональными электромагнитами",
+          "Параметризация с помощью управляемого через меню ПО диагностики и параметризации",
+          "Привязка к шине (CANopen, PROFIBUS DP) по запросу",
+          "Простое и быстрое обращение",
+          "Возможность адаптации к требованиям клиента без изменения аппаратной части",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/ehlektronnoe-oborudovanie/ehlektronnye-ustroistva-regulirovanija/cifrovye-ustroistva-regulirovanija/",
+            "name": "Цифровые устройства регулирования",
+            "productCategories": [
+              {
+                "name": "Цифровые устройства регулирования",
+                "products": [
+                  {
+                    "dataSheetNo": "1.13-106",
+                    "construction": "Модуль с защелкой",
+                    "type": "SD7",
+                    "pdfFile": "1_13_106_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-240",
+                    "construction": "Мобильная электроника",
+                    "type": "MD2",
+                    "pdfFile": "1_13_240_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 0,
+    "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/",
+    "name": "Комплектующие",
+    "groups": [
+      {
+        "level": 1,
+        "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/",
+        "name": "Гидравлические комплектующие",
+        "image": "csm_1_hydraulisches_zubehoer_a0350514a1.gif",
+        "property": [
+          "Резьбовые присоединительные пластины, монтажные плиты для нескольких устройств, блоки продольного сопряжения, резьбовые присоединительные блоки, многослойные резьбовые блоки, резьбовые присоединительные блоки для резьбовых патронов, заглушки и поворотные пластины, уплотняющие и промежуточные пластины and distance plates",
+          "Резьбовые присоединительные блоки для резьбовых патронов по ISO 7789",
+          "Типоразмеры NG3-мини, NG4-мини, NG6 и NG10",
+          "Максимальное давление 350 бар",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/rezbovye-prisoedinitelnye-plastiny/",
+            "name": "Резьбовые присоединительные пластины",
+            "productCategories": [
+              {
+                "name": "Резьбовые присоединительные пластины",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-05",
+                    "construction": "Плата",
+                    "size": "NG3-Mini",
+                    "type": "BG3S",
+                    "pdfFile": "2_9_05_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-10",
+                    "construction": "Плата",
+                    "size": "NG4-Mini",
+                    "type": "BG4.",
+                    "pdfFile": "2_9_10_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-12",
+                    "construction": "Плата",
+                    "size": "NG4-ISO",
+                    "type": "AGSB04.",
+                    "pdfFile": "2_9_12_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-30",
+                    "construction": "Плата",
+                    "size": "NG6",
+                    "type": "AG6.",
+                    "pdfFile": "2_9_30_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-40",
+                    "construction": "Плата",
+                    "size": "NG10",
+                    "type": "AG10.",
+                    "pdfFile": "2_9_40_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/montazhnye-plity-dlja-neskolkikh-ustroistv/",
+            "name": "Монтажные плиты для нескольких устройств",
+            "productCategories": [
+              {
+                "name": "Монтажные плиты для нескольких устройств",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-45",
+                    "construction": "Плата",
+                    "size": "NG3-мини",
+                    "type": "B3/..",
+                    "pdfFile": "2_9_45_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-50",
+                    "construction": "Плата",
+                    "size": "NG4-мини",
+                    "type": "B4/..",
+                    "pdfFile": "2_9_50_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-60",
+                    "construction": "Плата",
+                    "size": "NG6",
+                    "type": "A6/..",
+                    "pdfFile": "2_9_60_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-70",
+                    "construction": "Плата",
+                    "size": "NG10",
+                    "type": "A10/..",
+                    "pdfFile": "2_9_70_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/bloki-prodolnogo-soprjazhenija/",
+            "name": "Блоки продольного сопряжения",
+            "productCategories": [
+              {
+                "name": "Блоки продольного сопряжения",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-85",
+                    "construction": "Корпус",
+                    "size": "NG3-мини",
+                    "type": "AL.A03",
+                    "pdfFile": "2_9_85_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-90",
+                    "construction": "Корпус",
+                    "size": "NG4-мини",
+                    "type": "BLV4..",
+                    "pdfFile": "2_9_90_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-100",
+                    "construction": "Корпус",
+                    "size": "NG6",
+                    "type": "ALV6..",
+                    "pdfFile": "2_9_100_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-110",
+                    "construction": "Корпус",
+                    "size": "NG10",
+                    "type": "ALV10..",
+                    "pdfFile": "2_9_110_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/rezbovoi-prisoedinitelnyi-blok/",
+            "name": "Резьбовой присоединительный блок",
+            "productCategories": [
+              {
+                "name": "для редукционных клапанов",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-200",
+                    "construction": "Корпус",
+                    "type": "C02/D02",
+                    "pdfFile": "2_9_200_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "для 2-ходовых клапанов",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-205",
+                    "construction": "Корпус",
+                    "type": "A01/B01",
+                    "pdfFile": "2_9_205_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "для 3-ходовых клапанов",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-210",
+                    "construction": "Корпус",
+                    "type": "F04/G04",
+                    "pdfFile": "2_9_210_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/mnogosloinyi-rezbovoi-blok/",
+            "name": "Многослойный резьбовой блок",
+            "productCategories": [
+              {
+                "name": "Многослойный резьбовой блок",
+                "products": [
+                  {
+                    "dataSheetNo": "2.10-10",
+                    "construction": "многослойная конструкция",
+                    "size": "NG3-мини",
+                    "type": "PSGA03",
+                    "pdfFile": "2_10_10_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-20",
+                    "construction": "многослойная конструкция",
+                    "size": "NG4-мини",
+                    "type": "BSGK.4",
+                    "pdfFile": "2_10_20_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-30",
+                    "construction": "многослойная конструкция",
+                    "size": "NG6",
+                    "type": "ASGK.6",
+                    "pdfFile": "2_10_30_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-40",
+                    "construction": "многослойная конструкция",
+                    "size": "NG10",
+                    "type": "ASGK.10",
+                    "pdfFile": "2_10_40_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/kreplenija-dlja-prodolnogo-soprjazhenija/",
+            "name": "Крепления для продольного сопряжения",
+            "productCategories": [
+              {
+                "name": "Крепления для продольного сопряжения",
+                "products": [
+                  {
+                    "dataSheetNo": "2.9-122",
+                    "construction": "Уголки, болты, гайки",
+                    "size": "NG3, NG4",
+                    "type": "BB4.",
+                    "pdfFile": "2_9_122_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-124",
+                    "construction": "Уголки, болты, гайки",
+                    "size": "NG6",
+                    "type": "AB6.",
+                    "pdfFile": "2_9_124_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.9-126",
+                    "construction": "Уголки, болты, гайки",
+                    "size": "NG10",
+                    "type": "AB10.",
+                    "pdfFile": "2_9_126_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/kreplenija-dlja-vertikalnogo-soprjazhenija/",
+            "name": "Крепления для вертикального сопряжения",
+            "productCategories": [
+              {
+                "name": "Крепления для вертикального сопряжения",
+                "products": [
+                  {
+                    "dataSheetNo": "2.10-210",
+                    "construction": "Болты, гайки",
+                    "size": "NG3",
+                    "pdfFile": "2_10_210_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-220",
+                    "construction": "Болты, гайки",
+                    "size": "NG4, NG6",
+                    "pdfFile": "2_10_220_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-240",
+                    "construction": "Болты, гайки",
+                    "size": "NG10",
+                    "pdfFile": "2_10_240_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/zaglushki-i-povorotnye-plastiny/",
+            "name": "Заглушки и поворотные пластины",
+            "productCategories": [
+              {
+                "name": "Заглушки и поворотные пластины",
+                "products": [
+                  {
+                    "dataSheetNo": "2.10-110",
+                    "construction": "Пластины",
+                    "size": "NG3-мини",
+                    "type": "P.FA03",
+                    "pdfFile": "2_10_110_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-120",
+                    "construction": "Пластины",
+                    "size": "NG4-мини",
+                    "type": "B.4",
+                    "pdfFile": "2_10_120_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-130",
+                    "construction": "Пластины",
+                    "size": "NG6",
+                    "type": "A.6",
+                    "pdfFile": "2_10_130_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-140",
+                    "construction": "Пластины",
+                    "size": "NG10",
+                    "type": "A.10",
+                    "pdfFile": "2_10_140_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/uplotnjajushchie-i-promezhutochnye-plastiny/",
+            "name": "Уплотняющие и промежуточные пластины",
+            "productCategories": [
+              {
+                "name": "Уплотняющие и промежуточные пластины",
+                "products": [
+                  {
+                    "dataSheetNo": "2.10-310",
+                    "construction": "Пластины",
+                    "size": "NG3-мини",
+                    "type": "P.SA03",
+                    "pdfFile": "2_10_310_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-320",
+                    "construction": "Пластины",
+                    "size": "NG4-мини",
+                    "type": "B.4",
+                    "pdfFile": "2_10_320_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-330",
+                    "construction": "Пластины",
+                    "size": "NG6",
+                    "type": "A.6",
+                    "pdfFile": "2_10_330_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-340",
+                    "construction": "Пластины",
+                    "size": "NG10",
+                    "type": "A.10",
+                    "pdfFile": "2_10_340_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/gidravlicheskie-komplektujushchie/distance-plates/",
+            "name": "Distance plates",
+            "productCategories": [
+              {
+                "name": "Distance plates",
+                "products": [
+                  {
+                    "dataSheetNo": "2.10-420",
+                    "construction": "Plates",
+                    "size": "NG4-Mini",
+                    "type": "BDP4",
+                    "pdfFile": "2_10_420_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.10-430",
+                    "construction": "Plates",
+                    "size": "NG6",
+                    "type": "ADP6",
+                    "pdfFile": "2_10_430_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/komplektujushchie/ehlektronnoe-oborudovanie-komplektujushchie/",
+        "name": "Электронное оборудование, комплектующие",
+        "property": [
+          "Пружинная контактная планка, держатель сменных плат"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/ehlektronnoe-oborudovanie-komplektujushchie/ehlektronnoe-oborudovanie-komplektujushchie/",
+            "name": "Электронное оборудование, комплектующие",
+            "productCategories": [
+              {
+                "name": "Электронное оборудование, комплектующие",
+                "products": [
+                  {
+                    "dataSheetNo": "1.13-550",
+                    "construction": "Пружинные контактные планки",
+                    "type": "Z04",
+                    "pdfFile": "1_13_550_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.13-555",
+                    "construction": "Блок сменных плат",
+                    "type": "Z05",
+                    "pdfFile": "1_13_555_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/komplektujushchie/ehlektromagnity/",
+        "name": "Электромагниты",
+        "image": "csm_1_magnete_1ad3cb2be0.gif",
+        "property": [
+          "Магниты переключающие и пропорциональные",
+          "Исполнение фланцевое и со сменными катушками",
+          "Размеры 29 мм, 35 мм, 45 мм и 60 мм",
+          "Мокрые магниты для статической герметичности до 350 бар",
+          "Исполнения для постоянного тока (10...250 В-) Исполнения для переменного тока (24...250В~) с интегрированной схемой выпрямления",
+          "Различные исполнения кабелей и разъемов",
+          "Класс защиты IP65 (IP67 как опция)",
+          "Стандартное литье",
+          "Электромагниты для относительной продолжительности включения 100% и непрерывной работы",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/ehlektromagnity/perekljuchajushchie-ehlektromagnity/",
+            "name": "Переключающие электромагниты",
+            "productCategories": [
+              {
+                "name": "Простое исполнение",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-80",
+                    "construction": "Фланцевая конструкция",
+                    "size": "29 мм",
+                    "type": "SIN29",
+                    "pdfFile": "1_1_80_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-85",
+                    "construction": "Фланцевая конструкция",
+                    "size": "29 мм",
+                    "type": "SIS29",
+                    "pdfFile": "1_1_85_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-100",
+                    "construction": "Фланцевая конструкция",
+                    "size": "35 мм",
+                    "type": "BEII",
+                    "pdfFile": "1_1_100_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-105",
+                    "construction": "Фланцевая конструкция",
+                    "size": "35 мм",
+                    "type": "SIN35",
+                    "pdfFile": "1_1_105_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-110",
+                    "construction": "Фланцевая конструкция",
+                    "size": "35 мм",
+                    "type": "SIS35",
+                    "pdfFile": "1_1_110_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-120",
+                    "construction": "Фланцевая конструкция",
+                    "size": "45 мм",
+                    "type": "SIN45",
+                    "pdfFile": "1_1_120_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-125",
+                    "construction": "Фланцевая конструкция",
+                    "size": "45 мм",
+                    "type": "SIS45",
+                    "pdfFile": "1_1_125_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-145",
+                    "construction": "Фланцевая конструкция",
+                    "size": "60 мм",
+                    "type": "SIN60",
+                    "pdfFile": "1_1_145_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-150",
+                    "construction": "Фланцевая конструкция",
+                    "size": "60 мм",
+                    "type": "SIS60",
+                    "pdfFile": "1_1_150_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Сдвоенное исполнение",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-122",
+                    "construction": "Фланцевая конструкция",
+                    "size": "45 мм",
+                    "type": "SIN45D",
+                    "pdfFile": "1_1_122_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-127",
+                    "construction": "Фланцевая конструкция",
+                    "size": "45 мм",
+                    "type": "SIS45D",
+                    "pdfFile": "1_1_127_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/ehlektromagnity/proporcionalnye-ehlektromagnity/",
+            "name": "Пропорциональные электромагниты",
+            "productCategories": [
+              {
+                "name": "Толкающее исполнение",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-90",
+                    "construction": "Фланцевая конструкция",
+                    "size": "29 мм",
+                    "type": "PI29",
+                    "pdfFile": "1_1_90_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-115",
+                    "construction": "Фланцевая конструкция",
+                    "size": "35 мм",
+                    "type": "PI35",
+                    "pdfFile": "1_1_115_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-130",
+                    "construction": "Фланцевая конструкция",
+                    "size": "45 мм",
+                    "type": "PI45",
+                    "pdfFile": "1_1_130_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-155",
+                    "construction": "Фланцевая конструкция",
+                    "size": "60 мм",
+                    "type": "PI60",
+                    "pdfFile": "1_1_155_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Тянущее исполнение",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-117",
+                    "construction": "Фланцевая конструкция",
+                    "size": "35 мм",
+                    "type": "PI29-M152",
+                    "pdfFile": "1_1_117_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/komplektujushchie/ehlektromagnity/smennye-katushki-so-shtepselnym-kontaktom/",
+            "name": "Сменные катушки со штепсельным контактом",
+            "productCategories": [
+              {
+                "name": "Сменные катушки со штепсельным контактом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-168",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "V.E37/19x40/50",
+                    "pdfFile": "1_1_168_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-169",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.E37/16x40",
+                    "pdfFile": "1_1_169_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-170",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "M.S35/16x53",
+                    "pdfFile": "1_1_170_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-171",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "M.E35/16x40",
+                    "pdfFile": "1_1_171_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-172",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "K.35/16",
+                    "pdfFile": "1_1_172_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-173",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.S37/19x50",
+                    "pdfFile": "1_1_173_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-174",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "M.S35/19x50",
+                    "pdfFile": "1_1_174_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-175",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "N.S35/19x50",
+                    "pdfFile": "1_1_175_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-180",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.S45/23x50",
+                    "pdfFile": "1_1_180_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-181",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "M.S45/23x50",
+                    "pdfFile": "1_1_181_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-182",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.E45/23x50",
+                    "pdfFile": "1_1_182_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-190",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.E62/31x72",
+                    "pdfFile": "1_1_190_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-191",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "W.S63/31x72",
+                    "pdfFile": "1_1_191_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-193",
+                    "construction": "Конструкция сменной катушки",
+                    "type": "M.S60/31x72",
+                    "pdfFile": "1_1_193_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.1-330",
+                    "construction": "Slip-on coil with integrated amplifier electronics",
+                    "type": "MP...-P1-..-A1",
+                    "pdfFile": "1_1_330_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": 0,
+    "link": "/ru/assortiment/atex-ustroistva/atex-klapany/",
+    "name": "ATEX-устройства",
+    "groups": [
+      {
+        "level": 1,
+        "link": "/ru/assortiment/atex-ustroistva/atex-klapany/",
+        "name": "ATEX-клапаны",
+        "image": "csm_1_atex_ventile_4ea84bcd8b.gif",
+        "property": [
+          "Клапаны золотниковые, клапаны пропорциональные золотниковые, клапаны тарельчатые, клапаны давления пропорциональные",
+          "Фланцевое и патронное исполнение",
+          "Типоразмеры: NG4-мини, NG6 и NG10",
+          "Резьбовые патроны: M22x1,5 и M33x2",
+          "Максимальное давление до 350 бар",
+          "Объемный расход до 100 л/мин",
+          "Взрывозащита по 60 079 (EN 50 014)",
+          "Применение в зонах 0, 1 и 2",
+          "Классы температур до T4 или до T6 соотв.",
+          "Повышенная безопасность, герметизация компаундом, искробезопасность",
+          "Ex e, Ex d, Ex ia",
+          "Короткие сроки поставки, даже для специального оборудования"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/atex-klapany/zolotnikovye-klapany-atex/",
+            "name": "Золотниковые клапаны ATEX",
+            "productCategories": [
+              {
+                "name": "C прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "1.3-23",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG4-мини",
+                    "type": "BEXd4x4",
+                    "pdfFile": "1_3_23_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.3-33",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG6",
+                    "type": "AEXd4x6",
+                    "pdfFile": "1_3_33_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.3-34",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG6",
+                    "type": "WDYFA06",
+                    "pdfFile": "1_3_34_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.3-40",
+                    "construction": "Фланцевая конструкция, Ex ia",
+                    "size": "NG6",
+                    "type": "AEXi4x6",
+                    "pdfFile": "1_3_40_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.3-42",
+                    "construction": "Фланцевая конструкция, Ex ia",
+                    "size": "NG6",
+                    "type": "WDZFA06-Z546",
+                    "pdfFile": "1_3_42_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "1.9-37",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG10",
+                    "type": "AEXdVP4x10",
+                    "pdfFile": "1_9_37_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Пропорциональные, с прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "1.10-88",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG6",
+                    "type": "WDBFA06",
+                    "pdfFile": "1_10_88_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/atex-klapany/tarelchatye-klapany-atex/",
+            "name": "Тарельчатые клапаны ATEX",
+            "productCategories": [
+              {
+                "name": "С прямым управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-2052",
+                    "construction": "Solenoid poppet valve cartridge Ex d II C M18",
+                    "size": "M18x1,5",
+                    "type": "SDYPM18",
+                    "pdfFile": "1_11_2052_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2054",
+                    "construction": "Solenoid poppet valve cartridge Exi",
+                    "size": "M18x1,5",
+                    "type": "SDZPM18",
+                    "pdfFile": "1_11_2054_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2064",
+                    "construction": "Резьбовой патрон Exd",
+                    "size": "M22x1,5",
+                    "type": "SDYPM22",
+                    "pdfFile": "1_11_2064_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-3132",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG4-мини",
+                    "type": "BEXd2204",
+                    "pdfFile": "1_11_3132_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-3143",
+                    "construction": "Фланцевая конструкция, Ex d",
+                    "size": "NG6",
+                    "type": "AEXd2206",
+                    "pdfFile": "1_11_3143_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "С пилотным управлением",
+                "products": [
+                  {
+                    "dataSheetNo": "1.11-2084",
+                    "construction": "Резьбовой патрон Exd",
+                    "size": "M22x1,5",
+                    "type": "SVYPM22",
+                    "pdfFile": "1_11_2084_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "1.11-2085",
+                    "construction": "Резьбовой патрон Exd",
+                    "size": "M33x2",
+                    "type": "SVYPM33",
+                    "pdfFile": "1_11_2085_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/atex-klapany/klapany-davlenija-atex/",
+            "name": "Клапаны давления ATEX",
+            "productCategories": [
+              {
+                "name": "Клапаны редукционные",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-536",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M22x1,5",
+                    "type": "BVBPM22",
+                    "pdfFile": "2_3_536_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-547",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M22x1,5",
+                    "type": "BDBPM22",
+                    "pdfFile": "2_3_547_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Клапаны регулировки давления",
+                "products": [
+                  {
+                    "dataSheetNo": "2.3-602",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M16x1,5",
+                    "type": "MDBPM16",
+                    "pdfFile": "2_3_602_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-608",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M16x1,5",
+                    "type": "MGBPM16",
+                    "pdfFile": "2_3_608_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-635",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M22x1,5",
+                    "type": "MVBPM22",
+                    "pdfFile": "2_3_635_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-644",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M22x1,5",
+                    "type": "MQBPM22",
+                    "pdfFile": "2_3_644_e.pdf"
+                  },
+                  {
+                    "dataSheetNo": "2.3-654",
+                    "construction": "Резьбовой патрон, Ex d",
+                    "size": "M33x2",
+                    "type": "MVBPM33",
+                    "pdfFile": "2_3_654_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/atex-klapany/atex-flow-control-valves/",
+            "name": "ATEX flow control valves",
+            "productCategories": [
+              {
+                "name": "Throttle valves",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-535",
+                    "construction": "Screw-in cartridge construction, Ex d",
+                    "size": "M22x1,5",
+                    "type": "DNBPM22",
+                    "pdfFile": "2_6_535_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "2-way flow control valves",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-634",
+                    "construction": "Screw-in cartridge construction, Ex d",
+                    "size": "M22x1,5",
+                    "type": "QNBPM22",
+                    "pdfFile": "2_6_634_e.pdf"
+                  }
+                ]
+              },
+              {
+                "name": "3-way flow control valves",
+                "products": [
+                  {
+                    "dataSheetNo": "2.6-648",
+                    "construction": "Screw-in cartridge construction, Ex d",
+                    "size": "M22x1,5",
+                    "type": "QDBPM22",
+                    "pdfFile": "2_6_648_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": 1,
+        "link": "/ru/assortiment/atex-ustroistva/ehlektromagnity-atex/",
+        "name": "Электромагниты ATEX",
+        "image": "csm_1_atex-magnete_884b596af8.gif",
+        "property": [
+          "Заливка компаундом и искробезопасность",
+          "Конструкция со сменной катушкой",
+          "Взрывозащита по 60 079",
+          "Применение в зонах 0, 1 и 2",
+          "Классы температур до T4 - T6 соотв.",
+          "Заливка компаундом, искробезопасность",
+          "Ex d, Ex ia",
+          "Короткие сроки поставки даже для специальных обмоток"
+        ],
+        "groups": [
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/ehlektromagnity-atex/zalivka-kompaundom/",
+            "name": "Заливка компаундом",
+            "productCategories": [
+              {
+                "name": "Заливка компаундом",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-183",
+                    "construction": "Конструкция сменной катушки",
+                    "size": "45 мм",
+                    "type": "MKY45/18x60",
+                    "pdfFile": "1_1_183_e.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "link": "/ru/assortiment/atex-ustroistva/ehlektromagnity-atex/iskrobezopasnost/",
+            "name": "Искробезопасность",
+            "productCategories": [
+              {
+                "name": "Искробезопасность",
+                "products": [
+                  {
+                    "dataSheetNo": "1.1-185",
+                    "construction": "Конструкция сменной катушки",
+                    "size": "45 мм",
+                    "type": "M.Z45/...",
+                    "pdfFile": "1_1_185_e.pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
