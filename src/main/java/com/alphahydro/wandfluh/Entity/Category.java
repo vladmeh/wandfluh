@@ -24,6 +24,9 @@ public class Category {
     @OneToMany(mappedBy = "category")
     private Set<CategoryProperties> properties;
 
+    @OneToMany(mappedBy = "category")
+    private Set<Product> products;
+
     public Category() {
     }
 
@@ -90,5 +93,22 @@ public class Category {
 
     public void setProperties(Set<CategoryProperties> properties) {
         this.properties = properties;
+    }
+
+    public Set<Product> getProducts() {
+        return products;
+    }
+
+    public void setProducts(Set<Product> products) {
+        this.products = products;
+    }
+
+    @Override
+    public String toString() {
+        return String.format(
+                "[id: %d, name: %s, image: %s, desc: %s, parent: %s, properties: %d]", id, name, image, description,
+                (parentCategory != null) ? parentCategory.getName() : null,
+                (properties != null) ? properties.size() : null
+        );
     }
 }

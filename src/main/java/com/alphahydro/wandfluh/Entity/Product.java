@@ -31,6 +31,10 @@ public class Product {
     @JoinColumn(name = "product_type_id")
     private ProductType type;
 
+    @ManyToOne
+    @JoinColumn(name = "product_control_id")
+    private ProductControl control;
+
     public Product() {
     }
 
@@ -101,5 +105,25 @@ public class Product {
 
     public void setType(ProductType type) {
         this.type = type;
+    }
+
+    public ProductControl getControl() {
+        return control;
+    }
+
+    public void setControl(ProductControl control) {
+        this.control = control;
+    }
+
+    @Override
+    public String toString() {
+        String controlName = (this.control != null) ? this.control.getName() : null;
+        return String.format(
+                "[control: %s, name: %s, sheetNo: %s, pdf: %s, construction: %s, size: %s, type %s]",
+                controlName, name, dataSheetNo, dataSheetPdf,
+                (construction != null) ? construction.getName() : null,
+                (size != null) ? size.getName() : null,
+                (type != null) ? type.getName() : null
+        );
     }
 }

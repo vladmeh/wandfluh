@@ -39,6 +39,7 @@ CREATE TABLE product
   product_construction_id INT         NULL,
   product_size_id         INT         NULL,
   product_type_id         INT         NULL,
+  product_control_id      INT         NOT NULL,
   CONSTRAINT data_sheet_no_UNIQUE
   UNIQUE (data_sheet_no),
   CONSTRAINT fk_product_category1
@@ -58,6 +59,9 @@ CREATE INDEX fk_product_product_size1_idx
 CREATE INDEX fk_product_product_type1_idx
   ON product (product_type_id);
 
+CREATE INDEX fk_product_product_control1_idx
+  ON product (product_control_id);
+
 CREATE TABLE product_construction
 (
   id   INT AUTO_INCREMENT
@@ -69,6 +73,18 @@ CREATE TABLE product_construction
 ALTER TABLE product
   ADD CONSTRAINT fk_product_product_construction1
 FOREIGN KEY (product_construction_id) REFERENCES product_construction (id);
+
+CREATE TABLE product_control
+(
+  id   INT AUTO_INCREMENT
+    PRIMARY KEY,
+  name VARCHAR(45) NOT NULL
+)
+  ENGINE = InnoDB;
+
+ALTER TABLE product
+  ADD CONSTRAINT fk_product_product_control1
+FOREIGN KEY (product_control_id) REFERENCES product_control (id);
 
 CREATE TABLE product_size
 (

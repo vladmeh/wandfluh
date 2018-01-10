@@ -18,8 +18,9 @@ public class CategoryProperties {
     public CategoryProperties() {
     }
 
-    public CategoryProperties(String value) {
+    public CategoryProperties(String value, Category category) {
         this.value = value;
+        this.category = category;
     }
 
     public long getId() {

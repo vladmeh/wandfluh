@@ -22,6 +22,7 @@
         <mapping class="com.alphahydro.wandfluh.Entity.ProductConstruction" />
         <mapping class="com.alphahydro.wandfluh.Entity.ProductSize" />
         <mapping class="com.alphahydro.wandfluh.Entity.ProductType" />
+        <mapping class="com.alphahydro.wandfluh.Entity.ProductControl" />
 
     </session-factory>
 </hibernate-configuration>
