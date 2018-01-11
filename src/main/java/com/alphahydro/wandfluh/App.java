@@ -8,12 +8,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-/**
- * @autor mvl on 27.12.2017.
- */
 public class App {
     private static final String JSON_FILE = "data/sections.json";
 
+    private List<CategoryProperties> categoryPropertiesList = new ArrayList<>();
     private List<ProductControl> productControlList = new ArrayList<>();
     private List<ProductConstruction> productConstructorList = new ArrayList<>();
     private List<ProductSize> productSizeList = new ArrayList<>();
@@ -24,28 +22,13 @@ public class App {
         File file = obj.getResourceFile(JSON_FILE);
         //obj.printFile(file);
         obj.readDomFile(file);
+        obj.printLists();
     }
 
     private File getResourceFile(String fileName) {
         //Get file from resources folder
         ClassLoader classLoader = getClass().getClassLoader();
         return new File(Objects.requireNonNull(classLoader.getResource(fileName), "Файл '" + JSON_FILE + "' не найден.").getFile());
-    }
-
-    private void printFile(File file){
-        StringBuilder result = new StringBuilder("");
-
-        try (Scanner scanner = new Scanner(file)) {
-            while (scanner.hasNextLine()) {
-                String line = scanner.nextLine();
-                result.append(line).append("\n");
-            }
-            scanner.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        System.out.println(result.toString());
     }
 
     private void readDomFile(File file) throws IOException {
@@ -57,12 +40,6 @@ public class App {
         System.out.println("categories count: " + rootNode.size());
 
         iteratorJsonFields(elements, null);
-
-
-        System.out.println("-------------------------------------");
-        for (ProductControl productControl : productControlList)
-            System.out.println(productControl.getName());
-
     }
 
     private void iteratorJsonFields(Iterator<JsonNode> elements, Category parentCategory){
@@ -70,7 +47,7 @@ public class App {
             JsonNode jsonNode = elements.next();
             int level = jsonNode.path("level").asInt();
 
-            Category category = setCategory(jsonNode, parentCategory);
+            Category category = createCategory(jsonNode, parentCategory);
             printCategory(category, level*3);
 
             if (jsonNode.has("productCategories")){
@@ -81,13 +58,13 @@ public class App {
 
                     String productControlName = productControlNode.path("name").toString();
 
-                    ProductControl productControl = getProductControl(productControlName);
+                    ProductControl productControl = (!productControlName.equals(category.getName())) ? createProductControl(productControlName) : null;
 
                     if (productControlNode.has("products")){
                         Iterator<JsonNode> productsNode = productControlNode.path("products").elements();
                         while (productsNode.hasNext()){
                             JsonNode productNode = productsNode.next();
-                            Product product = setProduct(productNode, category, productControl);
+                            Product product = createProduct(productNode, category, productControl);
 
                             System.out.printf("%10s%s\n", "", product.toString());
                         }
@@ -95,14 +72,13 @@ public class App {
                 }
             }
 
-
             if (jsonNode.path("groups").size() != 0){
                 iteratorJsonFields(jsonNode.path("groups").elements(), category);
             }
         }
     }
 
-    private Category setCategory(JsonNode jsonNode, Category parentCategory){
+    private Category createCategory(JsonNode jsonNode, Category parentCategory){
         String categoryName = jsonNode.path("name").toString();
         Category category = new Category(categoryName);
         if (jsonNode.has("image")) category.setImage(jsonNode.path("image").toString());
@@ -111,7 +87,7 @@ public class App {
             Iterator<JsonNode> properties = jsonNode.path("property").elements();
             Set<CategoryProperties> propList = new HashSet<>();
             while (properties.hasNext()){
-                CategoryProperties categoryProperties = new CategoryProperties(properties.next().toString(), category);
+                CategoryProperties categoryProperties = createCatregoryProperty(properties.next().toString(), category);
                 propList.add(categoryProperties);
             }
             category.setProperties(propList);
@@ -120,21 +96,20 @@ public class App {
         return category;
     }
 
-    private ProductControl getProductControl(String productControlName){
-
-        if (!productControlList.isEmpty()){
-            for (ProductControl productControl: productControlList){
-                if (productControlName.equals(productControl.getName()))
-                    return productControl;
+    private CategoryProperties createCatregoryProperty(String propertyName, Category category){
+        if (!categoryPropertiesList.isEmpty()){
+            for (CategoryProperties categoryProperties: categoryPropertiesList){
+                if (propertyName.equals(categoryProperties.getValue()))
+                    return categoryProperties;
             }
         }
-        ProductControl control = new ProductControl(productControlName);
-        productControlList.add(control);
 
-        return control;
+        CategoryProperties properties = new CategoryProperties(propertyName, category);
+        categoryPropertiesList.add(properties);
+        return properties;
     }
 
-    private Product setProduct(JsonNode jsonNode, Category category, ProductControl productControl){
+    private Product createProduct(JsonNode jsonNode, Category category, ProductControl productControl){
         Product product = new Product();
 
         product.setCategory(category);
@@ -144,21 +119,21 @@ public class App {
 
         if (jsonNode.has("construction"))
             product.setConstruction(
-                    new ProductConstruction(
+                    createProductConstruction(
                             jsonNode.path("construction").toString()
                     )
             );
 
         if (jsonNode.has("size"))
             product.setSize(
-                    new ProductSize(
+                    createProductSize(
                             jsonNode.path("size").toString()
                     )
             );
 
         if (jsonNode.has("type"))
             product.setType(
-                    new ProductType(
+                    createProductType(
                             jsonNode.path("type").toString()
                     )
 
@@ -167,6 +142,62 @@ public class App {
         return product;
     }
 
+    private ProductControl createProductControl(String controlName){
+
+        if (!productControlList.isEmpty()){
+            for (ProductControl productControl: productControlList){
+                if (controlName.equals(productControl.getName()))
+                    return productControl;
+            }
+        }
+        ProductControl control = new ProductControl(controlName);
+        productControlList.add(control);
+
+        return control;
+    }
+
+    private ProductType createProductType(String typeName){
+        if (!productTypeList.isEmpty()){
+            for (ProductType productType: productTypeList){
+                if (typeName.equals(productType.getName()))
+                    return productType;
+            }
+        }
+
+        ProductType type = new ProductType(typeName);
+        productTypeList.add(type);
+
+        return type;
+    }
+
+    private ProductConstruction createProductConstruction(String constructionName){
+        if (!productConstructorList.isEmpty()){
+            for (ProductConstruction productConstruction: productConstructorList){
+                if (constructionName.equals(productConstruction.getName()))
+                    return productConstruction;
+            }
+        }
+
+        ProductConstruction construction = new ProductConstruction(constructionName);
+        productConstructorList.add(construction);
+
+        return construction;
+    }
+
+    private ProductSize createProductSize(String sizeName){
+        if (!productSizeList.isEmpty()){
+            for (ProductSize productSize: productSizeList){
+                if (sizeName.equals(productSize.getName())){
+                    return productSize;
+                }
+            }
+        }
+
+        ProductSize size = new ProductSize(sizeName);
+        productSizeList.add(size);
+
+        return size;
+    }
 
     private void printCategory(Category category, int tabSize){
         String format;
@@ -177,4 +208,32 @@ public class App {
 
         System.out.printf(format, "", category.toString());
     }
+
+    private void printLists() {
+        System.out.println();
+        System.out.println("CONTROLS-------------------------------------");
+        for (ProductControl productControl : productControlList)
+            System.out.println(productControl.getName());
+
+        System.out.println();
+        System.out.println("CONSTRUCTION-------------------------------------");
+        for (ProductConstruction productConstruction : productConstructorList)
+            System.out.println(productConstruction.getName());
+
+        System.out.println();
+        System.out.println("SIZE-------------------------------------");
+        for (ProductSize size : productSizeList)
+            System.out.println(size.getName());
+
+        System.out.println();
+        System.out.println("TYPE-------------------------------------");
+        for (ProductType type : productTypeList)
+            System.out.println(type.getName());
+
+        System.out.println();
+        System.out.println("PROPERTIES-------------------------------------");
+        for (CategoryProperties properties : categoryPropertiesList)
+            System.out.println(properties.getValue());
+    }
+
 }

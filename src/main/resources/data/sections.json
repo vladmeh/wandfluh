@@ -341,70 +341,68 @@
                   {
                     "dataSheetNo": "1.11-205A",
                     "construction": "Poppet valve direct operated",
-                    "size": "",
                     "type": "SDEPM20-BA",
                     "pdfFile": "1_11_205A_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-205B",
                     "construction": "Poppet valve direct operated",
-                    "size": "",
                     "type": "SDEPU08-BA/AB",
                     "pdfFile": "1_11_205B_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2010",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG3\"",
+                    "size": "NG3",
                     "type": ".2203",
                     "pdfFile": "1_11_2010_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2015",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG3\"",
+                    "size": "NG3",
                     "type": ".2203-S1265",
                     "pdfFile": "1_11_2015_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2020",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG4\"",
+                    "size": "NG4",
                     "type": ".2204",
                     "pdfFile": "1_11_2020_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2025",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG4\"",
+                    "size": "NG4",
                     "type": ".2204-S1265",
                     "pdfFile": "1_11_2025_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2030",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG6\"",
+                    "size": "NG6",
                     "type": ".2206",
                     "pdfFile": "1_11_2030_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2035",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG6\"",
+                    "size": "NG6",
                     "type": ".2206-S1265",
                     "pdfFile": "1_11_2035_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2040",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG10\"",
+                    "size": "NG10",
                     "type": ".2210",
                     "pdfFile": "1_11_2040_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-2045",
                     "construction": "Штепсельный патрон",
-                    "size": "\"NG10\"",
+                    "size": "NG10",
                     "type": ".2210-S1265",
                     "pdfFile": "1_11_2045_e.pdf"
                   },
@@ -566,14 +564,12 @@
                   {
                     "dataSheetNo": "1.11-208A",
                     "construction": "Poppet valve pilot operated",
-                    "size": "",
                     "type": "SVEPM20-BC",
                     "pdfFile": "1_11_208A_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.11-208B",
                     "construction": "Poppet valve pilot operated",
-                    "size": "",
                     "type": "SVEPU08-BC/CB/BA",
                     "pdfFile": "1_11_208B_e.pdf"
                   },
@@ -615,7 +611,7 @@
                   {
                     "dataSheetNo": "1.11-2083",
                     "construction": "Резьбовой патрон",
-                    "size": "3/4\"-16UNF",
+                    "size": "3/4-16UNF",
                     "type": "SVSPU08-BC/CB",
                     "pdfFile": "1_11_2083_e.pdf"
                   },
@@ -669,7 +665,7 @@
                   {
                     "dataSheetNo": "2.1-523",
                     "construction": "Ограничивающие давление патроны с прямым управлением, leakage free",
-                    "size": "3/4\"",
+                    "size": "3/4",
                     "type": "BESPU08",
                     "pdfFile": "2_1_523_e.pdf"
                   },
@@ -1525,14 +1521,14 @@
                   {
                     "dataSheetNo": "2.7-130",
                     "construction": "для монтажа в трубе",
-                    "size": "\"NG6\"",
+                    "size": "NG6",
                     "type": "RBS.638",
                     "pdfFile": "2_7_130_e.pdf"
                   },
                   {
                     "dataSheetNo": "2.7-140",
                     "construction": "для монтажа в трубе",
-                    "size": "\"NG10\"",
+                    "size": "NG10",
                     "type": "RBS.1012",
                     "pdfFile": "2_7_140_e.pdf"
                   }
@@ -1724,7 +1720,7 @@
           "с встроенной электроникой (DSV)",
           "С регулированием положения поршня (LVDT)",
           "Типоразмеры NG-3 и NG-4 мини, NG4, NG6 и NG10 ISO",
-          "Screw-in cartridge 7/8\"-14 and 3/4\"-16 UNF",
+          "Screw-in cartridge 7/8-14 and 3/4-16 UNF",
           "Максимальное давление 350 бар",
           "Объемный расход до 200 л/мин",
           "Стандартно малые утечки",
@@ -1738,7 +1734,7 @@
             "name": "Пропорциональные золотниковые клапаны с прямым управлением",
             "productCategories": [
               {
-                "name": "с компенсацией нагрузки",
+                "name": "С компенсацией нагрузки",
                 "products": [
                   {
                     "dataSheetNo": "1.10-06",
@@ -1764,19 +1760,19 @@
                 ]
               },
               {
-                "name": "без компенсации нагрузки",
+                "name": "Без компенсации нагрузки",
                 "products": [
                   {
                     "dataSheetNo": "1.10-2710",
                     "construction": "Screw-in cartridge type",
-                    "size": "3/4\"-16 UNF",
+                    "size": "3/4-16 UNF",
                     "type": "WDPPU08",
                     "pdfFile": "1_10_2710p_e.pdf"
                   },
                   {
                     "dataSheetNo": "1.10-2720",
                     "construction": "Screw-in cartridge type",
-                    "size": "7/8\"-14 UNF",
+                    "size": "7/8-14 UNF",
                     "type": "WDPPU10",
                     "pdfFile": "1_10_2720p_e.pdf"
                   },
@@ -1818,7 +1814,7 @@
                 ]
               },
               {
-                "name": "с встроенной электроникой",
+                "name": "С встроенной электроникой",
                 "products": [
                   {
                     "dataSheetNo": "1.10-70",
@@ -1925,7 +1921,6 @@
           "с встроенной электроникой (DSV)",
           "Типоразмеры NG3-мини, NG4-мини, NG6 и NG10",
           "Резьбовые патроны: M18x1,5, M22x1,5 и M33x2",
-          "",
           "Максимальное давление до 350 бар",
           "Объемный расход до 100 л/мин",
           "Малый гистерезис и точное разрешение",
@@ -1940,7 +1935,7 @@
             "name": "Пропорциональные редукционные клапаны",
             "productCategories": [
               {
-                "name": "с прямым управлением",
+                "name": "С прямым управлением",
                 "products": [
                   {
                     "dataSheetNo": "2.3-520",
@@ -2001,7 +1996,7 @@
                 ]
               },
               {
-                "name": "с пилотным управлением",
+                "name": "С пилотным управлением",
                 "products": [
                   {
                     "dataSheetNo": "2.3-510",
@@ -2116,7 +2111,7 @@
             "name": "Клапаны регулировки давления пропорциональные",
             "productCategories": [
               {
-                "name": "с прямым управлением",
+                "name": "С прямым управлением",
                 "products": [
                   {
                     "dataSheetNo": "2.3-603",
@@ -2182,7 +2177,7 @@
                   {
                     "dataSheetNo": "2.3-672",
                     "construction": "Резьбовой патрон",
-                    "size": "7/8\"",
+                    "size": "7/8",
                     "type": "MVPPU10",
                     "pdfFile": "2_3_672_e.pdf"
                   },
@@ -2263,7 +2258,7 @@
           "Клапаны регулирования объемного расхода в 2- и 3-ходовом исполнении",
           "Фланцевая, многослойная и патронная конструкция",
           "С встроенной электроникой (DSV)",
-          "\"Все в одном\" (регулятор расхода/тарельчатый клапан/ограничитель скорости)",
+          "Все в одном (регулятор расхода/тарельчатый клапан/ограничитель скорости)",
           "Типоразмеры NG3-мини, NG4-мини, NG6 и NG10",
           "Резьбовые патроны: M18x1,5, M22x1,5 и M33x2",
           "Максимальное давление до 350 бар",
@@ -2386,7 +2381,7 @@
                   {
                     "dataSheetNo": "2.6-675",
                     "construction": "Резьбовой патрон",
-                    "size": "1 5/16\"",
+                    "size": "1 5/16",
                     "type": "QNPPU16",
                     "pdfFile": "2_6_675_e.pdf"
                   },
@@ -2440,7 +2435,7 @@
                   {
                     "dataSheetNo": "2.6-670",
                     "construction": "Резьбовой патрон",
-                    "size": "1 5/16\"",
+                    "size": "1 5/16",
                     "type": "QDPPU16",
                     "pdfFile": "2_6_670_e.pdf"
                   },
@@ -2468,7 +2463,7 @@
                 ]
               },
               {
-                "name": "\"Все в одном\"",
+                "name": "Все в одном",
                 "products": [
                   {
                     "dataSheetNo": "2.6-661",
@@ -3422,7 +3417,7 @@
             "name": "Золотниковые клапаны ATEX",
             "productCategories": [
               {
-                "name": "C прямым управлением",
+                "name": "С прямым управлением",
                 "products": [
                   {
                     "dataSheetNo": "1.3-23",
