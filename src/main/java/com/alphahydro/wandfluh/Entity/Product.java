@@ -119,11 +119,12 @@ public class Product {
     public String toString() {
         String controlName = (this.control != null) ? this.control.getName() : null;
         return String.format(
-                "[control: %s, name: %s, sheetNo: %s, pdf: %s, construction: %s, size: %s, type %s]",
+                "[control: %s, name: %s, sheetNo: %s, pdf: %s, construction: %s, size: %s, type %s, category %d]",
                 controlName, name, dataSheetNo, dataSheetPdf,
                 (construction != null) ? construction.getName() : null,
                 (size != null) ? size.getName() : null,
-                (type != null) ? type.getName() : null
+                (type != null) ? type.getName() : null,
+                category.getId()
         );
     }
 }

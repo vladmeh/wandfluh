@@ -2,9 +2,9 @@ CREATE TABLE category
 (
   id          INT AUTO_INCREMENT
     PRIMARY KEY,
-  name        VARCHAR(45)  NOT NULL,
-  image       VARCHAR(45)  NULL,
-  description VARCHAR(258) NULL,
+  name        VARCHAR(255) NOT NULL,
+  image       VARCHAR(128) NULL,
+  description VARCHAR(255) NULL,
   parent_id   INT          NULL,
   CONSTRAINT fk_category_category
   FOREIGN KEY (parent_id) REFERENCES category (id)
@@ -18,8 +18,8 @@ CREATE TABLE category_properties
 (
   id          INT AUTO_INCREMENT
     PRIMARY KEY,
-  value       VARCHAR(258) NOT NULL,
-  category_id INT          NOT NULL,
+  value       TEXT NOT NULL,
+  category_id INT  NOT NULL,
   CONSTRAINT fk_category_properties_category1
   FOREIGN KEY (category_id) REFERENCES category (id)
 )
@@ -39,9 +39,7 @@ CREATE TABLE product
   product_construction_id INT         NULL,
   product_size_id         INT         NULL,
   product_type_id         INT         NULL,
-  product_control_id      INT         NOT NULL,
-  CONSTRAINT data_sheet_no_UNIQUE
-  UNIQUE (data_sheet_no),
+  product_control_id      INT         NULL,
   CONSTRAINT fk_product_category1
   FOREIGN KEY (category_id) REFERENCES category (id)
 )
@@ -66,7 +64,7 @@ CREATE TABLE product_construction
 (
   id   INT AUTO_INCREMENT
     PRIMARY KEY,
-  name VARCHAR(45) NOT NULL
+  name VARCHAR(255) NOT NULL
 )
   ENGINE = InnoDB;
 
@@ -78,7 +76,7 @@ CREATE TABLE product_control
 (
   id   INT AUTO_INCREMENT
     PRIMARY KEY,
-  name VARCHAR(45) NOT NULL
+  name VARCHAR(255) NOT NULL
 )
   ENGINE = InnoDB;
 
@@ -90,7 +88,7 @@ CREATE TABLE product_size
 (
   id   INT AUTO_INCREMENT
     PRIMARY KEY,
-  name VARCHAR(45) NOT NULL
+  name VARCHAR(128) NOT NULL
 )
   ENGINE = InnoDB;
 
@@ -102,7 +100,7 @@ CREATE TABLE product_type
 (
   id   INT AUTO_INCREMENT
     PRIMARY KEY,
-  name VARCHAR(45) NOT NULL
+  name VARCHAR(128) NOT NULL
 )
   ENGINE = InnoDB;
 

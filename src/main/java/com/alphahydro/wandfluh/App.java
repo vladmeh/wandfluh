@@ -1,8 +1,11 @@
 package com.alphahydro.wandfluh;
 
 import com.alphahydro.wandfluh.Entity.*;
+import com.alphahydro.wandfluh.Util.HibernateUtil;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,17 +14,22 @@ import java.util.*;
 public class App {
     private static final String JSON_FILE = "data/sections.json";
 
-    private List<CategoryProperties> categoryPropertiesList = new ArrayList<>();
+    private Set<CategoryProperties> categoryPropertiesList = new HashSet<>();
     private List<ProductControl> productControlList = new ArrayList<>();
     private List<ProductConstruction> productConstructorList = new ArrayList<>();
     private List<ProductSize> productSizeList = new ArrayList<>();
     private List<ProductType> productTypeList = new ArrayList<>();
 
+    private SessionFactory sessionFactory;
+
     public static void main(String[] args) throws IOException {
         App obj = new App();
         File file = obj.getResourceFile(JSON_FILE);
-        //obj.printFile(file);
+
+        obj.sessionFactory = HibernateUtil.getSessionFactory();
         obj.readDomFile(file);
+        HibernateUtil.shutdown();
+
         obj.printLists();
     }
 
@@ -83,36 +91,32 @@ public class App {
         Category category = new Category(categoryName);
         if (jsonNode.has("image")) category.setImage(jsonNode.path("image").toString());
         if (parentCategory != null) category.setParentCategory(parentCategory);
+
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(category);
+
         if (jsonNode.has("property")) {
             Iterator<JsonNode> properties = jsonNode.path("property").elements();
-            Set<CategoryProperties> propList = new HashSet<>();
             while (properties.hasNext()){
-                CategoryProperties categoryProperties = createCatregoryProperty(properties.next().toString(), category);
-                propList.add(categoryProperties);
+                CategoryProperties categoryProperties = new CategoryProperties(properties.next().toString(), category);
+                categoryPropertiesList.add(categoryProperties);
+                session.save(categoryProperties);
             }
-            category.setProperties(propList);
+            category.setProperties(categoryPropertiesList);
         }
+
+
+        session.getTransaction().commit();
+        session.close();
 
         return category;
     }
 
-    private CategoryProperties createCatregoryProperty(String propertyName, Category category){
-        if (!categoryPropertiesList.isEmpty()){
-            for (CategoryProperties categoryProperties: categoryPropertiesList){
-                if (propertyName.equals(categoryProperties.getValue()))
-                    return categoryProperties;
-            }
-        }
-
-        CategoryProperties properties = new CategoryProperties(propertyName, category);
-        categoryPropertiesList.add(properties);
-        return properties;
-    }
-
     private Product createProduct(JsonNode jsonNode, Category category, ProductControl productControl){
-        Product product = new Product();
+        Product product = new Product("", category);
 
-        product.setCategory(category);
         product.setControl(productControl);
         product.setDataSheetNo(jsonNode.path("dataSheetNo").toString());
         product.setDataSheetPdf(jsonNode.path("pdfFile").toString());
@@ -139,6 +143,14 @@ public class App {
 
             );
 
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(product);
+
+        session.getTransaction().commit();
+        session.close();
+
         return product;
     }
 
@@ -151,6 +163,15 @@ public class App {
             }
         }
         ProductControl control = new ProductControl(controlName);
+
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(control);
+
+        session.getTransaction().commit();
+        session.close();
+
         productControlList.add(control);
 
         return control;
@@ -165,6 +186,15 @@ public class App {
         }
 
         ProductType type = new ProductType(typeName);
+
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(type);
+
+        session.getTransaction().commit();
+        session.close();
+
         productTypeList.add(type);
 
         return type;
@@ -179,6 +209,15 @@ public class App {
         }
 
         ProductConstruction construction = new ProductConstruction(constructionName);
+
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(construction);
+
+        session.getTransaction().commit();
+        session.close();
+
         productConstructorList.add(construction);
 
         return construction;
@@ -194,6 +233,15 @@ public class App {
         }
 
         ProductSize size = new ProductSize(sizeName);
+
+        Session session = sessionFactory.openSession();
+        session.beginTransaction();
+
+        session.save(size);
+
+        session.getTransaction().commit();
+        session.close();
+
         productSizeList.add(size);
 
         return size;
@@ -233,7 +281,7 @@ public class App {
         System.out.println();
         System.out.println("PROPERTIES-------------------------------------");
         for (CategoryProperties properties : categoryPropertiesList)
-            System.out.println(properties.getValue());
+            System.out.println(properties.getValue() + ", " + properties.getCategory().getId());
     }
 
 }
