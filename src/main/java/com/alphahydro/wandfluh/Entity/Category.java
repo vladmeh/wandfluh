@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.util.Set;
 
 @Entity
-@Table(name = "CATEGORY")
+@Table(name = "WF_CATEGORY")
 public class Category {
 
     @Id

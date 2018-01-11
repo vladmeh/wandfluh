@@ -3,7 +3,7 @@ package com.alphahydro.wandfluh.Entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "CATEGORY_PROPERTIES")
+@Table(name = "WF_CATEGORY_PROPERTIES")
 public class CategoryProperties {
 
     @Id
